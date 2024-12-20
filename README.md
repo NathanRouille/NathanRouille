@@ -7,12 +7,12 @@
 ###
 
 <p align="left">
-  I'm Nathan from France<br><br>
+  I'm Nathan from France, deeply passionate about artificial intelligence and its potential to solve real-world challenges<br>
   <ul>
-    <li>🎓 Computer Science and Applied Mathematics student at [Télécom Paris](https://www.telecom-paris.fr/), Institut Polytechnique de Paris.</li>
+    <li>🎓 Computer Science and Applied Mathematics student at <a href="https://www.telecom-paris.fr/">Télécom Paris</a>, Institut Polytechnique de Paris.</li>
     <li>🔍 Specializing in the mathematical foundations and advanced techniques of machine learning, computer vision, and data analysis.</li>
     <li>📚 Currently exploring innovative methods in statistical modeling and deep learning.</li>
-    <li>📫 You can reach me at [nathan.rouille@telecom-paris.fr](mailto:nathan.rouille@telecom-paris.fr)</li>
+    <li>📫 You can reach me at <a href="mailto:nathan.rouille@telecom-paris.fr">nathan.rouille@telecom-paris.fr</a></li>
   </ul>
 </p>
 
