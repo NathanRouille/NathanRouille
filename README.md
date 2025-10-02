@@ -41,6 +41,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRouille&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&exclude_repo=Image-Processing,Variational-Bayesian-Optimization,Time-Series,Signal-Processing,Audio-to-Sheet" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanRouille&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&exclude_repo=Image-Processing,Variational-Bayesian-Optimization,Time-Series,Signal-Processing,Audio-to-Sheet,CNN,text-classification,Video-3D-Vision" height="150" alt="languages graph"  />
 </div>
 
